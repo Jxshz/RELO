@@ -81,11 +81,12 @@ Contributions are welcome! Please follow these steps:
 5.  Submit a pull request.
 
 Wireframe link : https://www.figma.com/proto/lrQyYzsnsO5jbsahX6l0ZN/RELO-WEBSITE?page-id=0%3A1&node-id=1-2&viewport=197%2C337%2C0.31&t=1j8v7NGzIFVHsGnt-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2
-## Technologies Used
-•⁠  ⁠*Frontend:* [Specify Frontend Technologies, e.g., React, Vue.js, Angular, HTML, CSS, JavaScript]
-•⁠  ⁠*Backend:* [Specify Backend Technologies, e.g., Node.js, Python/Django, Ruby on Rails, PHP/Laravel]
-•⁠  ⁠*Database:* [Specify Database, e.g., PostgreSQL, MySQL, MongoDB]
-•⁠  ⁠*Other:* [Specify any other relevant technologies or libraries]
+
+Integrated Gemini APIs for AI-powered backend features
+Development Environment: Google IDX (used for building & testing the project)
+Frontend: ReactJs, Typescript, Json, HTML, CSS, JavaScript, NodeJs.
+Backend: Node.js, Javscript.
+Deployment & Database: Netifly 
 
 ## License
 
